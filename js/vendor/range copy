@@ -1,0 +1,373 @@
+# a= "sainuu"
+# print("sainuu")
+# print("sainuu")
+# print("sainuu")
+# print("sainuu")
+# print("sainuu")
+# for i in range(1,10,3):
+#     print(i)
+
+# c = 2
+# for i in range(10,):
+#      c //= i   
+# print(c)
+
+# c = c + 1     1 +1  
+# c = c + 2     1 + 2 
+# c = c +3    3 + 6 
+
+
+
+# task1
+
+# for i in range(5):
+#     print("sainuu")
+
+
+# task2
+# for i in range(9):
+#     print(i)
+
+# task3
+# for i in range(1,10):
+#     print(i)
+
+
+# task4
+
+# for i in range(11,0, -1):
+#     print(i)
+
+
+# task5
+# for i in range(5):
+#     print("TUGULDUR")
+
+
+# TASK6
+
+# c = 0 
+# for i in  range(1, 11):
+#     c+=i
+# print(c)
+
+
+# # task7
+# c = 0 
+# for i in range(1,101):
+#     c=c+i
+# print(c)
+
+# task8
+
+# total = 0
+# for i in range(2,21,2):
+#     total+=i
+# print(total)
+
+
+# task9
+
+# total=0
+# for i in range(3,31,3):
+#     total +=i
+#     print(total)
+
+# # task10
+
+
+# a = int(input("toogoo"))
+# for i in range(5):
+#     a+=i
+# print(a)
+
+# task11
+
+# tegshtoo = 0
+# for i in range(1,21):
+#     if i % 2 == 0:
+#         tegshtoo += 1 
+# print("niit ", tegshtoo , " tegsh too bainaaa")
+
+
+# task12
+
+
+# a = 0 
+# for i in range(1, 101, 5):
+#     a=a+1
+# print(a)
+
+# task13
+
+# a=0
+# for i in range(1,51):
+#     if i % 3 ==0:
+#         a += 1
+# print(a)
+
+# task14
+
+# a=0
+# b=0
+# for i in range(1,21,):
+#     if i % 2 ==0:
+#         a+=1
+#         b+=1
+
+#     print(a,b)
+
+
+# task15
+
+# a=int(input("toogoo"))
+# niilber = 0
+# for i in range(1,a+1):
+#     if i % 7 == 0:
+#         niilber += 1
+# print(niilber)
+
+# task16
+
+
+# niilber = 0
+# too = 0
+# for i in range(1,101):
+#     if i % 2 == 0:
+#         niilber += i 
+#         too += 1
+# print(niilber, too)
+
+# # task17
+# a = 0
+# for i in range(1,101):
+#     if i % 5 == 0 or i % 3 == 0:
+#         a += 1
+# print(a)
+
+
+
+# # task 18
+# # a = 0
+# # for i in range(1,101):
+# #     if i % 3 == 0:
+# #         a += i
+# # print(a)
+
+
+# # # task19
+# a = 0
+# b = 0
+# n = int(input("su too"))
+# for i in range(1,n+1):
+#     dun = int(input())
+#     a +=dun 
+#     dundaj = a / n
+#     if dun>= 80:
+#         b+=1
+# print(a, dundaj,b)
+
+# a = 0
+# n = int(input("dungee oruul"))
+# for i in range1(1,92):
+
+
+# "i = bnu"
+# while i >= 0:
+#     print(i)
+#     "i += bnu"
+
+
+# while True:
+#     print("")
+
+# i = 1
+
+# while i <= 10:
+#     print(i)
+#     i = i + 1
+
+
+# n = 10
+# while n >= 1:
+#     print(n)
+# #     n = n -1
+# a = 0
+# b = 1 
+# while b >= 100:
+#     print(b)
+#     a ==0 
+
+# n = 100
+# niilber=0
+# tooluur=1
+# while tooluur<=n:
+#     niilber += tooluur
+
+#     tooluur +=1
+# print(niilber)
+
+# niit = 1
+# while niit < 1000:
+#     print(niit)
+#     niit *=2
+
+# i=1
+# while i <=5:
+#     print(i)
+
+# i = 10
+# while i <=5:
+#      i+=1
+# print(i)
+
+# i = 1
+# while i <=5:
+#     i-=1
+#     print(i)
+
+
+
+# import random
+# secret = 33
+# count = 0
+# print("TOOGOO TAAGAAD SHAGNALAA HOJOOROI :0")
+# while True:
+#     shagnal_hojloo = int(input("TAAH TOO : "))
+#     count+=1
+#     if shagnal_hojloo < secret:
+#         print("IHDEE")
+#     elif shagnal_hojloo > secret:
+#         print("BAGADAA")
+#     else:
+#         print("SHAGNAL HOJLOO")
+#         print("total :", count)
+#         break
+
+
+# k=1
+# n = int(input("toogoo"))
+# while k <= n:
+#     print(k)
+#     k = k + 1
+
+
+
+# h = int(input("toogoo"))
+# while h >=1:
+#     print(h)
+#     h = h - 1
+
+
+# n = int(input("toogoo"))
+# while n > 1 :
+#     n -= 1
+#     if n % 2 == 0:
+#         print(n)
+
+
+
+# n = int(input("toogoo"))
+# while n > 1 :
+#     n -= 1
+#     if n % 2 == 1:
+#         print(n)
+
+
+
+# niilber=0
+# tooluur=1
+# n = int(input("N : "))
+# while tooluur <= n:
+#     niilber += tooluur
+#     tooluur += 1
+    
+#     print(niilber)
+
+
+# 6
+
+# niilber = 0
+# tooluur = 1
+# n = int(input("N : "))
+# while tooluur <= n:
+#     tooluur += 1
+#     if tooluur % 2 ==0:
+#         niilber += tooluur
+        
+#         print(niilber)
+
+# # 7
+# n = int(input("too:"))
+# i = 3
+# while i <= n:
+#      print(i)
+#      i +=3
+
+
+#     # task8
+# a = int(input("too"))
+# i = 0
+# while i <=n:
+#      if i ==0:
+#           print("i_ eyreg")
+
+# else: 
+#      print("sorog")
+
+
+# # task9
+# iilber = 0
+# a = 1
+# while a < 10:
+#     if a > 0:
+#         iilber += a
+#         a = a + 1
+# print(iilber)
+
+# task10
+# i = 1
+# ih = 0
+# while i <= 5:
+#     too = int(input("too: "))
+#     if too > ih:
+#         ih = too
+      
+#         print("ih")
+
+# task11##################
+
+# i = 0
+# a = 1
+# while i >=5:
+#     too = int(input())
+#     if too < a:
+#         a = too
+#         print("baga")
+
+# # task12
+# n = int(input("n ="))
+# i = 1
+# while i <= n:
+#     if i % 3 == 0 or i % 5 == 0:
+#         print(i)
+#     i = i + 1
+
+
+# task13
+
+n = int(input("toogoo oruul"))
+too = 0
+while n > 0:
+    if n > 0:
+        n = n // 10
+        too = too + 1
+        print(too)
+
+
+# #   task14
+# a = int(input("toogoo oruul"))
+# too = 0
+# while a > 0:
+#     if a > 0:
+        

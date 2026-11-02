@@ -1,0 +1,94 @@
+# name = "tuguldur"
+# print(type(name))
+# x = 5
+# y = "Sainuu"
+# z = (1,2,3)
+# print(type(x))
+# print(type(y))
+# print(type(z))
+# x = 10.5
+# print(isinstance(x, float))
+# # task1
+# n = 27
+# a = n // 10
+# j = n % 10
+# print( a + j )
+
+# n = 135
+
+
+# k = n // 60
+# h = n % 60
+# print( k , h )
+
+# a = 225
+# y = a // 60
+# g = a % 60
+# print( y, "цаг", g, "минут" )
+
+# # a = 12345
+# # b = a % 10 
+# # print(b) 
+
+# a = 57
+# c = a % 10
+# b = a // 37
+# # print( c, b )
+# a = input ( "too oruul" )
+# print (a)
+# name = input("age : ")
+# print("Sainuu", name) 
+# name = int(input(" age :"))
+# print("ta ,name, daraa jil en nasnd hurne ")
+# too = int(input("neg alim shaadaa andaa : "))
+# too_2 = int(input("one more andaa: "))
+# print(too + too_2)
+# a,b,c = map(int,input("3 too oruul glgo: ").split())
+# print( a + b + c )
+
+# y,k = map(int,input("2 too oruulaa hu: ").split())
+# print(y + k)
+# a = int(input("too oruul: "))
+# print(a**3,(a**2)*6)
+# y = int(input())
+# a = 6 
+# b = 4
+# a,b = map(int,input("2too oruul:").split())
+# x = (a+b)*2
+# y=a*b
+# print(x,y)
+
+# a = int(input("toogoo oruulaa: "))
+# b = 3 * a-5
+# print(b)
+# x = int(input("toogoo hii: "))
+# y = 4 * x ** 2 - 3 * x + 5
+# print("hariu ni bn shde :", y)
+ 
+
+# suuliin tsifr
+# x = int(input("toogoo hii: "))
+# y = x%10
+# # print(" en mon uu bagshaa :", y) 
+# x = int(input("toogoo hii hu : "))
+# b = x // 10
+# c = b % 10
+# print(c)
+ 
+# x = int(input("toogoo hii : "))
+# tsag = x // 3600 
+# minut = (x % 3600 ) // 60
+# second =  x % 60 
+# print(tsag, minut, second)
+
+
+
+# tsag , minut , second  = map(int,input("3 too oruul:").split())
+# t =  tsag * 3600 
+# m = minut * 60 
+# niit = t + m + second
+# print(niit) 
+city = "ulaanbaatar"
+name = "yamal"
+print("ulaanbaatar")
+print("yamal")  

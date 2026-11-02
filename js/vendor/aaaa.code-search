@@ -1,0 +1,73 @@
+# Query: b
+# ContextLines: 1
+
+34 results - 1 file
+
+python.py:
+   10  # age = 18
+   11: # city = "Ulaanbaatar"
+   12  # school = "Indra" 
+   13: # hobby = "pc gaming"
+   14  # goal = "developer"
+
+   18  # print(school)
+   19: # print(hobby)
+   20  # print(goal)
+
+   22  # age = 18
+   23: # city = "ub"
+   24  # school = "indra"
+   25: # hobby = "mobile game"
+   26  # goal = "developer"
+
+   30  # print(school)
+   31: # print(hobby)
+   32  # print(goal)
+
+   49  1 # a = 15
+   50: # b = 8 
+   51: # total = a + b
+   52  # print(total)
+
+   54  a = 25
+   55: b = 9 
+   56: total = a - b
+   57  print(total)
+
+   59  a = 7 
+   60: b = 6
+   61: total = a * b
+   62  print(total)
+
+   64  a = 40
+   65: b = 8
+   66: total = a / b
+   67  print(total)
+
+   69  a = 20
+   70: b = 4
+   71: total = a + b,a - b,a * b,a / b,
+   72  print(total)
+
+   84  a = 70
+   85: b = 80
+   86  c = 90
+   87: total = (a +  b +  c) / 3
+   88  print(total)
+
+  100  apple = 1500
+  101: bread = 2500
+  102  apple_count = 3
+  103: bread_count = 2
+  104: total = apple + apple + apple + bread + bread 
+  105  print(total)
+
+  107  salary = 1500000
+  108: bonus = 200000
+  109  tax = 300000
+  110: total = salary + bonus - tax 
+  111  print(total)
+
+  138  age = 39
+  139: sport = "basketball player"
+  140  work = "trader"

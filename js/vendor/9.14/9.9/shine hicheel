@@ -1,0 +1,239 @@
+# for i in range(1,11):
+#     print(i)
+
+
+# for i in range(1, 21):
+#     if i % 2 == 0:
+#         print(i)
+
+
+# for i in range (1, 21):
+#     if i % 2== 1:
+#         print(i)
+
+
+# n = int(input())
+# for i in range(1, n + 1):
+#     print(i)
+    
+
+# n = int(input())
+# for i in range(n, 0, -1):
+#     print(i)
+
+
+# for i in range(1,51):
+#     if i % 3 ==0:
+#         print(i)
+
+
+8
+# for i in range(1,31):
+#     if i % 5!=0:
+#         print(i)
+
+# task4
+# for i in range(1,11):
+    
+#         print(f"5 x {i} = {5 * i}")
+
+# i = 1
+# for i in range(1,101):
+#     if i % 2 == 0:
+#         print(i)
+
+# i = 0
+# for i in range(1,101):
+#     if i % 7 == 0:
+#         print(i)
+
+
+# total = 0
+# for i in range(1,101):
+#      total = total + i
+#      i +=1
+#print(total)
+
+
+# niilber = 0
+# for i in range(1,51):
+#     if i % 2 == 0:
+#         niilber = niilber + i
+#         i +=1
+# print(niilber) 
+
+
+# 13
+# i = 1
+
+# while i <=10:
+#     print(i)
+#     i +=1
+
+# 14
+# i = 10
+# while i >=1:
+#     print(i)
+#     i -=1
+
+# i = int(input("psda"))
+# while i <=20:
+#     if i % 2 == 0:
+
+#         print(i)
+#         i += 2
+
+# n = int(input("kodoo:"))
+# total = 0
+# i = 1 
+# while i <= n:
+#     total = total + i
+#     i +=1
+# print(total)
+
+
+
+# n = int(input("toogoo oruul"))
+# too = 0
+# while n > 0: 
+#     if n > 0:
+#         n = n // 10 
+#         too += 1
+# print(too)
+
+# n = int(input("toogoo oruul"))
+# too = 0
+# digit = 0
+# while n > 0: 
+#     if n > 0:
+#         digit = n % 10
+#         too += digit
+#         n = n // 10 
+        
+# print(too)
+
+
+
+
+# 19
+
+# for i in range(1,21):
+#     if i == 5:
+#         break
+#     print(i)
+
+
+# 20
+
+# for i in range(10,101):
+#     if i % 7 == 0:
+#      print(i)
+#      break
+   
+
+21
+
+# secret = 8
+# while True:
+#     number = int(input("tooogoo oruulaa hogsho : "))
+#     if number == secret:
+#         break
+   
+
+
+22
+
+
+# secret = 0
+# while True:
+#     number = int(input("tooogoo oruulaa hogsho : "))
+#     if number == secret:
+#         break
+   
+
+
+23
+
+# a = 0
+# while True:
+#     n = int(input("too"))
+#     if n == 0:
+#         break
+#     a +=n
+# print(a)
+
+
+24
+# for i in range(1,10):
+#     if i == 4:
+#         continue
+#     print(i)
+
+
+
+25
+
+# for i in range(1,21):
+#     if i % 2 == 0:
+#          continue
+#     print(i)
+
+
+
+# 26
+
+# for i in range(1,21):
+#     if i % 3 == 0:
+#          continue
+#     print(i)
+
+
+# 27
+# a= int(input("too"))
+# k = 0
+# for i in range(a):
+#     p = int(input("too"))
+#     if p < 0:
+#          continue
+#     k = k  + p
+# print(k)
+
+
+
+# 28
+# a = 0
+# for i in range(1, 100):
+#     if i % 7 == 0 :
+#         a += 1
+#         print(i)
+#     if a == 5:
+#         break
+
+
+29
+# while True:
+#     n = int(input("toogoo"))
+#     if n == 0:
+#         break
+#     elif n < 1: 
+#             continue
+#     elif n % 2 !=0:
+#             continue
+    
+#     print(n)
+
+
+# for tsag in range(24):
+#     for minut in range(60):
+#         print(tsag, ":" ,minut\
+#     print()
+
+
+
+# a = list(map(int,input().split))
+# print(max(a))
+# a.append(6)
+# a.insert(3,60)
+# {1,2,3,4,5,}
+# print(a - 3)
+# 2
